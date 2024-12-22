@@ -1,5 +1,7 @@
 
-![Hero Image](https://github.com/Sherifsani/sherifsani/blob/main/image.webp)
+<div>
+  <img height="160" src="https://github.com/Sherifsani/sherifsani/blob/main/image.webp"/>
+</div>
 
 <h1 align="left">Hello there!</h1>
 
