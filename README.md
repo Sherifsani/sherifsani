@@ -54,7 +54,7 @@
 ### Let's Connect  
 
 - 💼 **LinkedIn**:(https://www.linkedin.com/in/sherifsani)  
-- 📝 **Dev**(https://dev.to/sherifsani)  
+- 📝 **Dev**(https://dev.to/sherif_san)  
 - 📧 **Email**: sanisherif838@gmail.com
 
   
