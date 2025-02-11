@@ -1,6 +1,8 @@
 <h1 align="left">Sherif Sani</h1>
 
-🎓 **Computer Science Student** | ☁️ **Aspiring Cloud Engineer** | 💻 **Frontend Developer**
+🎓 **CS Student** | ☁️ **Aspiring Cloud Engineer** | 💻 **developer**
+
+
 
 ###
 
