@@ -1,6 +1,6 @@
 <h1 align="left">Sherif Sani</h1>
 
-🎓 **CS Student** | ☁️ **Aspiring Cloud Engineer** | 💻 **developer**
+🎓 **CS Student** | ☁️ **Cloud Engineer** | 💻 **developer**
 
 
 
@@ -10,9 +10,7 @@
 
 ###
 
-- 🌟 Passionate about **cloud technologies, DevOps, and software development**
-- 📚 Learning **Arabic** and exploring **The noble Quran**
-- 🛠️ Currently working on projects involving **AWS, Terraform, ECS, and Serverless architectures** 
+I'm a CS student passionate about building solutions that help shape what I believe to be the future.
 
 ###
 
