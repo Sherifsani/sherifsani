@@ -14,7 +14,7 @@ I'm a CS student passionate about building solutions that help shape what I beli
 
 ###
 
-<h3 align="left">My Stack:</h3>
+<h3 align="left">Technologies I use: </h3>
 
 ###
 
