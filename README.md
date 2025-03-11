@@ -10,7 +10,7 @@
 
 ###
 
-I'm a CS student passionate about building solutions that help shape what I believe to be the future.
+I'm a CS student passionate about building solutions that help shape what I believe to be the future
 
 ###
 
