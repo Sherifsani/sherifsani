@@ -1,18 +1,47 @@
-<h1 align="left">Sherif Sani</h1>
+# Hi there, I'm Sherif Sani! 🚀
 
-🎓 **CS Student** | ☁️ **Cloud Engineer** | 💻 **developer**
+![GitHub Banner](https://your-image-link.com)  
+
+## 🌍 About Me
+
+I’m a **Cloud Engineer & Frontend Developer** passionate about building **scalable, secure, and high-performance** cloud solutions and modern web applications. My expertise spans **AWS, DevOps, backend development, and frontend technologies**.
+
+### 🔥 What I Bring to the Table:
+- **Cloud & DevOps:** AWS (Certified Cloud Practitioner & Solutions Architect), Terraform, Docker, Kubernetes, ECS, Lambda, CI/CD.
+- **Backend Development:** Flask, Node.js, Express.js (learning), API Gateway, Serverless Architecture.
+- **Frontend Development:** React.js, Next.js, Tailwind CSS, TypeScript.
+- **Infrastructure as Code:** Terraform, CloudFormation.
+- **Technical Writing:** I share my cloud & dev experiences on **[Dev.to](https://dev.to/)**.
+
+## 🏆 Featured Projects
+### 🛠️ Cloud & DevOps
+- **Secure WordPress Deployment on AWS**  	*AWS ECS, Fargate, RDS, EFS, Terraform* → [GitHub Repo](#)
+- **NBA Game Result Notifier**  	*AWS Lambda, SNS, EventBridge, Sports API* → [GitHub Repo](#)
+- **Serverless File Uploader**  	*S3, Lambda, API Gateway, CloudFront* → [GitHub Repo](#)
+
+### 🎨 Frontend Projects
+- **E-commerce Sneaker Store**  	*React, Tailwind CSS, Stripe API* → [Live Demo](#) | [GitHub](#)
+- **Space Tourism Website**  	*Modern UI/UX with animations* → [Live Demo](#) | [GitHub](#)
 
 
+## ⚡ Tech Stack & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-###
+## 📫 Connect With Me
+🌍 **Portfolio:** [sherifsani.dev](https://your-portfolio.com/)  
+💼 **LinkedIn:** [linkedin.com/in/sherifsani](https://linkedin.com/)  
+📜 **Blog:** [Dev.to Profile](https://dev.to/)  
+🎥 **YouTube (coming soon!)** 🚀  
 
-<h2 align="left">About me</h2>
+---
 
-###
+💡 *Always learning, always building!* Let's connect and create something awesome. 😃
 
-I'm a CS student passionate about building solutions that help shape what I believe to be the future
-
-###
 
 <h3 align="left">Technologies I use: </h3>
 
