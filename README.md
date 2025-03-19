@@ -1,17 +1,17 @@
 # Hi there, I'm Sherif Sani! 🚀
 
-![GitHub Banner](https://your-image-link.com)  
+![GitHub Banner](https://github.com/Sherifsani/sherifsani/blob/main/ill(1).jpg)  
 
 ## 🌍 About Me
 
-I’m a **Cloud Engineer & Frontend Developer** passionate about building **scalable, secure, and high-performance** cloud solutions and modern web applications. My expertise spans **AWS, DevOps, backend development, and frontend technologies**.
+I’m a **Developer** passionate about building **scalable, secure, and high-performance** cloud solutions and modern web applications. My expertise spans **AWS, DevOps, backend development, and frontend technologies**.
 
 ### 🔥 What I Bring to the Table:
 - **Cloud & DevOps:** AWS (Certified Cloud Practitioner & Solutions Architect), Terraform, Docker, Kubernetes, ECS, Lambda, CI/CD.
-- **Backend Development:** Flask, Node.js, Express.js (learning), API Gateway, Serverless Architecture.
+- **Backend Development:** Flask, Node.js, Express.js, API Gateway, Serverless Architecture.
 - **Frontend Development:** React.js, Next.js, Tailwind CSS, TypeScript.
-- **Infrastructure as Code:** Terraform, CloudFormation.
-- **Technical Writing:** I share my cloud & dev experiences on **[Dev.to](https://dev.to/)**.
+- **Infrastructure as Code:** Terraform, CloudFormation, pulum.
+- **Technical Writing:** I share my cloud & dev experiences on **[Dev.to](https://dev.to/sherifsani)**.
 
 ## 🏆 Featured Projects
 ### 🛠️ Cloud & DevOps
@@ -39,14 +39,13 @@ I’m a **Cloud Engineer & Frontend Developer** passionate about building **scal
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 Connect With Me
-🌍 **Portfolio:** [sherifsani.dev](https://your-portfolio.com/)  
-💼 **LinkedIn:** [linkedin.com/in/sherifsani](https://linkedin.com/)  
-📜 **Blog:** [Dev.to Profile](https://dev.to/)  
+🌍 **Portfolio:** [bayt-one.vercel.app](https://bayt-one.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/sherif-sani](https://linkedin.com/sherif-sani)  
+📜 **Blog:** [Dev.to Profile](https://dev.to/sanisherif)  
 🎥 **YouTube (coming soon!)** 🚀  
 
 ---
 
-💡 *Always learning, always building!* Let's connect and create something awesome. 😃
 
 
 <h3 align="left">Technologies I use: </h3>
@@ -88,9 +87,6 @@ I’m a **Cloud Engineer & Frontend Developer** passionate about building **scal
 
 ### Let's Connect  
 
-- 💼 **LinkedIn**:(https://www.linkedin.com/in/sherifsani)  
-- 📝 **Dev**(https://dev.to/sherif_san)  
-- 📧 **Email**: sanisherif838@gmail.com
 
   
 
