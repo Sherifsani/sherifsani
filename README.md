@@ -1,6 +1,5 @@
 # Hi there, I'm Sherif Sani! 🚀
 
-![GitHub Banner](https://github.com/Sherifsani/sherifsani/blob/main/ill(1).jpg)  
 
 ## 🌍 About Me
 
@@ -46,7 +45,7 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 
 ---
 
-
+<!--
 
 <h3 align="left">Technologies I use: </h3>
 
@@ -98,4 +97,4 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 ---
 "with hardship comes ease" 
 
-
+-->
