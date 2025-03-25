@@ -5,7 +5,7 @@
 
 I’m a **Developer** passionate about building **scalable, secure, and high-performance** cloud solutions and modern web applications. My expertise spans **AWS, DevOps, backend development, and frontend technologies**.
 
-### 🔥 What I Bring to the Table:
+### 🔥 What I do:
 - **Cloud & DevOps:** AWS (Certified Cloud Practitioner & Solutions Architect), Terraform, Docker, Kubernetes, ECS, Lambda, CI/CD.
 - **Backend Development:** Flask, Node.js, Express.js, API Gateway, Serverless Architecture.
 - **Frontend Development:** React.js, Next.js, Tailwind CSS, TypeScript.
@@ -17,11 +17,6 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 - **Secure WordPress Deployment on AWS**  	*AWS ECS, Fargate, RDS, EFS, Terraform* → [GitHub Repo](#)
 - **NBA Game Result Notifier**  	*AWS Lambda, SNS, EventBridge, Sports API* → [GitHub Repo](#)
 - **Serverless File Uploader**  	*S3, Lambda, API Gateway, CloudFront* → [GitHub Repo](#)
-
-### 🎨 Frontend Projects
-- **E-commerce Sneaker Store**  	*React, Tailwind CSS, Stripe API* → [Live Demo](#) | [GitHub](#)
-- **Space Tourism Website**  	*Modern UI/UX with animations* → [Live Demo](#) | [GitHub](#)
-
 
 ## ⚡ Tech Stack & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
