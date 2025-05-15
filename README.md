@@ -90,6 +90,6 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 </div>
 
 ---
-"with hardship comes ease" 
+"with hardship comes ease!" 
 
 -->
