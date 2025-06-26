@@ -87,8 +87,4 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
   <img src="https://github-readme-stats.vercel.app/api?username=sherifsani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherifsani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=true&order=2" height="145" alt="languages graph"  />
 </div>
-
----
-"with hardship comes ease!" 
-
 -->
