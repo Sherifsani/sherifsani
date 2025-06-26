@@ -9,7 +9,7 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 - **Cloud & DevOps:** AWS (Certified Cloud Practitioner & Solutions Architect), Terraform, Docker, Kubernetes, ECS, Lambda, CI/CD
 - **Backend Development:** Flask, Node.js, Express.js, API Gateway, Serverless Architecture.
 - **Frontend Development:** React.js, Next.js, Tailwind CSS, TypeScript.
-- **Infrastructure as Code:** Terraform, CloudFormation, pulumi.
+- **Infrastructure as Code:** Terraform, CloudFormation, pulumi
 - **Technical Writing:** I share my cloud & dev experiences on **[Dev.to](https://dev.to/sherifsani)**.
 
 ## 🏆 Featured Projects
