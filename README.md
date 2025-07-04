@@ -12,7 +12,7 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 - **Infrastructure as Code:** Terraform, CloudFormation, pulumi
 - **Technical Writing:** I share my cloud & dev experiences on **[Dev.to](https://dev.to/sherifsani)**.
 
-## 🏆 Featured Projects
+##  Featured Projects
 ### 🛠️ Cloud & DevOps
 - **Secure WordPress Deployment on AWS**  	*AWS ECS, Fargate, RDS, EFS, Terraform* → [GitHub Repo](#)
 - **NBA Game Result Notifier**  	*AWS Lambda, SNS, EventBridge, Sports API* → [GitHub Repo](#)
