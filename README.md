@@ -4,7 +4,7 @@
 ## 🌍 About Me
 
 I’m a **Developer** passionate about building **scalable, secure, and high-performance** cloud solutions and modern web applications. My expertise spans **AWS, DevOps, backend development, and frontend technologies**
-
+.
 ###  What I do:
 - **Cloud & DevOps:** AWS (Certified Cloud Practitioner & Solutions Architect), Terraform, Docker, Kubernetes, ECS, Lambda, CI/CD
 - **Backend Development:** Flask, Node.js, Express.js, API Gateway, Serverless Architecture.
