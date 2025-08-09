@@ -37,8 +37,6 @@ I’m a **Developer** passionate about building **scalable, secure, and high-per
 💼 **LinkedIn:** [linkedin.com/in/sherif-sani](https://linkedin.com/sherif-sani)  
 📜 **Blog:** [Dev.to Profile](https://dev.to/sanisherif)  
  
- 
----
 
 <!--
 
