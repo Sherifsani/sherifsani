@@ -1,5 +1,4 @@
   # Hi there, I'm Sherif Sani
-
    
 ## 🌍 About Me
 
