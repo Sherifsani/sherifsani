@@ -1,17 +1,5 @@
-         █████                          ███     ██████ 
-        ▒▒███                          ▒▒▒     ███▒▒███
-  █████  ▒███████    ██████  ████████  ████   ▒███ ▒▒▒ 
- ███▒▒   ▒███▒▒███  ███▒▒███▒▒███▒▒███▒▒███  ███████   
-▒▒█████  ▒███ ▒███ ▒███████  ▒███ ▒▒▒  ▒███ ▒▒▒███▒    
- ▒▒▒▒███ ▒███ ▒███ ▒███▒▒▒   ▒███      ▒███   ▒███     
- ██████  ████ █████▒▒██████  █████     █████  █████    
-▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒     ▒▒▒▒▒  ▒▒▒▒▒     
-                                                       
-                                                       
-
-
-
-# 👋 Hey, I'm Sherif
+# 👋 Hello, I'm Sherif
+CS undergrad | Software engineer | aspiring solutions architect
 
 I build things for the cloud — from scalable infrastructure to intelligent applications.  
 I enjoy designing systems that blend **automation, AI, and clean architecture**.
@@ -25,6 +13,12 @@ I enjoy designing systems that blend **automation, AI, and clean architecture**.
 
 ---
 
+### Hobbies
+- Building serverless tools
+- Drawing beautiful landscapes
+- watching animated movies and shows
+
+---
 ### 🛠️ Selected Projects
 - **Cashflow AI** – AI-powered finance manager using AWS Bedrock & Claude  
 - **Audio Notes** – Serverless app converting handwritten notes to audio  
