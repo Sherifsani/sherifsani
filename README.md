@@ -2,7 +2,7 @@
 
 **CS undergrad | Software engineer | aspiring solutions architect**
 
-I build things for the cloud — from scalable infrastructure to intelligent applications.  
+Third-year CS student building things for the cloud, from scalable infrastructure to intelligent applications.  
 I enjoy designing systems that blend **automation, AI, and clean architecture**.
 
 <br>
@@ -35,7 +35,7 @@ Scalable ECS-based setup using Terraform
 
 ## Hobbies
 
-Building serverless tools · Drawing beautiful landscapes · Watching animated movies and shows · watching/participating in sports
+Building serverless tools · Drawing landscapes · Watching animated movies and shows · watching/participating in sports · Reading about history (ask me anything)
 
 <br>
 
