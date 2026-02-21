@@ -45,4 +45,4 @@ Building serverless tools · Drawing landscapes · Watching animated movies and 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sherifsani)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sanisherif838@gmail.com)
 
-![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherifsani&show_icons=true)
+
