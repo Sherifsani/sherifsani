@@ -13,7 +13,7 @@ I enjoy designing systems that blend **automation, AI, and clean architecture**.
 AWS · Terraform · Docker · CI/CD · Lambda
 
 **Backend Development**  
-Node.js · Express · Python · Java · Spring Boot
+Node.js · Express · Python · Java · Spring Boot.
 
 **Frontend dev**  
 React · Nextjs · Tailwind · Typescript
