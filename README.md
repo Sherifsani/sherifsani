@@ -6,7 +6,7 @@ Third-year CS student building things for the cloud, from scalable infrastructur
 I enjoy designing systems that blend **automation, AI, and clean architecture**.
 
 <br>
-.
+
 ## What I Do
 
 **Cloud Infrastructure**  
