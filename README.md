@@ -11,7 +11,7 @@ sherifsani@github
 ────────────────────────────────
 
 OS         : Computer Science
-Cloud      : AWS, Azure
+Cloud      : AWS, Azure.
 
 Languages  : Java
              TypeScript
